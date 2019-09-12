@@ -8,7 +8,7 @@ const NavBar = () => (
       <Menu.Item>Home</Menu.Item>
     </Link>
     <Link to='/about'>
-      <Menu.Item>about</Menu.Item>
+      <Menu.Item>About</Menu.Item>
     </Link>
   </Menu>
 )
